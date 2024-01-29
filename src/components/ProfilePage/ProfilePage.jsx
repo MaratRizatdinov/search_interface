@@ -31,7 +31,6 @@ export const ProfilePage = () => {
             <S.UserName>Логин: {user.login}</S.UserName>
           </S.ProfileLeft>
           <S.ProfileRight>
-            {/* <S.UserName>Логин: {user.login}</S.UserName> */}
             <S.UserInfo>Имя: {user.name || "Не указан"}</S.UserInfo>
             <S.UserInfo>Блог: {user.blog || "Не указан"}</S.UserInfo>
             <S.UserInfo>
