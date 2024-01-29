@@ -23,8 +23,8 @@
 
 2. Проведите инсталляцию пакета
 
-cd search_interface
-npm i
+- cd search_interface
+- npm i
 
 3. Запустите проект 
 
