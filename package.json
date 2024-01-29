@@ -1,5 +1,4 @@
 {
-  "homepage": "https://MaratRizatdinov.github.io/search_interface",
   "name": "search_interface",
   "version": "0.1.0",
   "private": true,
@@ -20,11 +19,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "dev": "concurrently \"npm run server\" \"npm run start\"",
-    "server": "json-server -w server/db.json -p 3001",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build" 
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
@@ -44,9 +39,5 @@
       "last 1 safari version"
     ]
   },
-  "devDependencies": {
-    "concurrently": "^8.2.2",
-    "gh-pages": "^6.1.1",
-    "json-server": "^1.0.0-alpha.22"
-  }
+  "devDependencies": {}
 }
