@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/search_interface/static/js/main.27e8f2ad.js",
+    "static/media/Воронка.gif": "/search_interface/static/media/Воронка.d7b68e0c5eec1c6cfdb3.gif",
+    "static/media/logotype.svg": "/search_interface/static/media/logotype.29c95c102fcd6129d03daff7396d57cc.svg",
+    "index.html": "/search_interface/index.html",
+    "main.27e8f2ad.js.map": "/search_interface/static/js/main.27e8f2ad.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.27e8f2ad.js"
+  ]
+}
